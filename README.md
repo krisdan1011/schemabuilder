@@ -379,7 +379,3 @@ type T = {
     }
 }
 ```
-
-## What's next?
-
-`schema-builder` is a component of **Serafin** framework. You can go to the main documentation to learn more about it : [https://github.com/serafin-labs/serafin](https://github.com/serafin-labs/serafin)
